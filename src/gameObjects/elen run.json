@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "elen run_0002.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 543,
+        "h": 934
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 147,
+        "y": 125,
+        "w": 543,
+        "h": 934
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0010.png": {
+      "frame": {
+        "x": 0,
+        "y": 934,
+        "w": 563,
+        "h": 925
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 137,
+        "w": 563,
+        "h": 925
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0000.png": {
+      "frame": {
+        "x": 543,
+        "y": 0,
+        "w": 443,
+        "h": 919
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 143,
+        "w": 443,
+        "h": 919
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0014.png": {
+      "frame": {
+        "x": 563,
+        "y": 919,
+        "w": 702,
+        "h": 918
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 121,
+        "w": 702,
+        "h": 918
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0006.png": {
+      "frame": {
+        "x": 986,
+        "y": 0,
+        "w": 701,
+        "h": 907
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 135,
+        "w": 701,
+        "h": 907
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0008.png": {
+      "frame": {
+        "x": 1265,
+        "y": 907,
+        "w": 416,
+        "h": 907
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 303,
+        "y": 155,
+        "w": 416,
+        "h": 907
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0001.png": {
+      "frame": {
+        "x": 543,
+        "y": 0,
+        "w": 443,
+        "h": 919
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 233,
+        "y": 143,
+        "w": 443,
+        "h": 919
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0003.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 543,
+        "h": 934
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 147,
+        "y": 125,
+        "w": 543,
+        "h": 934
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0007.png": {
+      "frame": {
+        "x": 986,
+        "y": 0,
+        "w": 701,
+        "h": 907
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 135,
+        "w": 701,
+        "h": 907
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0009.png": {
+      "frame": {
+        "x": 1265,
+        "y": 907,
+        "w": 416,
+        "h": 907
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 303,
+        "y": 155,
+        "w": 416,
+        "h": 907
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0011.png": {
+      "frame": {
+        "x": 0,
+        "y": 934,
+        "w": 563,
+        "h": 925
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 137,
+        "w": 563,
+        "h": 925
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen run_0015.png": {
+      "frame": {
+        "x": 563,
+        "y": 919,
+        "w": 702,
+        "h": 918
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 121,
+        "w": 702,
+        "h": 918
+      },
+      "sourceSize": {
+        "w": 1080,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "elen run corregido-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1687,
+      "h": 1859
+    },
+    "scale": 1
+  }
+}

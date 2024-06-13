@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "Elen Idle.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 878,
+				"h": 1977
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Elen IDLE_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 79,
+						"w": 463,
+						"h": 980
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 463,
+						"h": 980
+					}
+				},
+				{
+					"filename": "Elen IDLE_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 67,
+						"w": 462,
+						"h": 993
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 462,
+						"h": 993
+					}
+				},
+				{
+					"filename": "Elen IDLE_0000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 89,
+						"w": 412,
+						"h": 971
+					},
+					"frame": {
+						"x": 465,
+						"y": 983,
+						"w": 412,
+						"h": 971
+					}
+				},
+				{
+					"filename": "Elen IDLE_0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 90,
+						"w": 410,
+						"h": 970
+					},
+					"frame": {
+						"x": 466,
+						"y": 1,
+						"w": 410,
+						"h": 970
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f973e9eecb5ea127bd4fb24b85a3831d:c2410e9ba090f48e3dbb68d018125bfd:98ee2ee6061f597065bf1df642aeb70d$"
+	}
+}

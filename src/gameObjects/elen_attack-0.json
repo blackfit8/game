@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "elen attack_0002.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1501,
+        "h": 843
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 211,
+        "w": 1501,
+        "h": 843
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen attack_0000.png": {
+      "frame": {
+        "x": 1501,
+        "y": 0,
+        "w": 468,
+        "h": 995
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 324,
+        "y": 61,
+        "w": 468,
+        "h": 995
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen attack_0006.png": {
+      "frame": {
+        "x": 0,
+        "y": 995,
+        "w": 427,
+        "h": 883
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 234,
+        "y": 175,
+        "w": 427,
+        "h": 883
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen attack_0001.png": {
+      "frame": {
+        "x": 427,
+        "y": 995,
+        "w": 767,
+        "h": 844
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 210,
+        "w": 767,
+        "h": 844
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen attack_0004.png": {
+      "frame": {
+        "x": 1194,
+        "y": 995,
+        "w": 574,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 320,
+        "w": 574,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "elen attack_0005.png": {
+      "frame": {
+        "x": 1194,
+        "y": 995,
+        "w": 574,
+        "h": 734
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 320,
+        "w": 574,
+        "h": 734
+      },
+      "sourceSize": {
+        "w": 1800,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "elen attack-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1969,
+      "h": 1878
+    },
+    "scale": 1
+  }
+}
