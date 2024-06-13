@@ -1,15 +1,21 @@
 {
   "name": "game-web",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "webpack & node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
     "phaser": "^3.80.1"
-  }
+  },
+  "devDependencies": {
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "description": ""
 }
